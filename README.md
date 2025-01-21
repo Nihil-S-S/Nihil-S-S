@@ -14,6 +14,3 @@ I'm currently Working
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nihil-S-S/Nihil-S-S/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nihil-S-S/Nihil-S-S/output/github-snake.svg" />
 </picture>
-[![](https://visitcount.itsvg.in/api?id=Nihil-S-S&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
